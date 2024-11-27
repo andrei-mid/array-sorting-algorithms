@@ -1,1 +1,1 @@
-We implement 3 new sorting algorithms for integer arrays
+## Here will be added all the detailed explinantions
